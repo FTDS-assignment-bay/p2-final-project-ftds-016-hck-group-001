@@ -36,7 +36,7 @@
     - Tasya Amalia <br>
         [GitHub](https://github.com/tasyamla) | [LinkedIn](https://www.linkedin.com/in/tasyamla/)
 
-- **Data Analyst**
+- **Data Scientist**
     - Devi Nirfana Hermawan <br>
         [GitHub](https://github.com/nirfana) | [LinkedIn](https://www.linkedin.com/in/devinirfana/)
 
