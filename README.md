@@ -27,21 +27,21 @@
 ---
 
 ## 👨🏻‍👩🏻‍👦🏻‍👦🏻 **Team Members**
+- Wilson  
+Data Engineer & Data Analyst<br>
+    [GitHub](https://github.com/weewoo2636) | [LinkedIn](https://www.linkedin.com/in/wilson-773134243/)
 
-- **Data Engineer**
-    - Wilson <br>
-        [GitHub](https://github.com/weewoo2636) | [LinkedIn](https://www.linkedin.com/in/wilson-773134243/)
+- Tasya Amalia <br>
+Data Analyst<br>
+    [GitHub](https://github.com/tasyamla) | [LinkedIn](https://www.linkedin.com/in/tasyamla/)
 
-- **Data Analyst**
-    - Tasya Amalia <br>
-        [GitHub](https://github.com/tasyamla) | [LinkedIn](https://www.linkedin.com/in/tasyamla/)
+- Devi Nirfana Hermawan <br>
+Data Scientist<br>
+    [GitHub](https://github.com/nirfana) | [LinkedIn](https://www.linkedin.com/in/devinirfana/)
 
-- **Data Scientist**
-    - Devi Nirfana Hermawan <br>
-        [GitHub](https://github.com/nirfana) | [LinkedIn](https://www.linkedin.com/in/devinirfana/)
-
-    - Frederick Kurniawan Putra <br>
-        [GitHub](https://github.com/UdonUltra) | [LinkedIn](https://www.linkedin.com/in/frederick-kurniawan-putra-389b6a146/)
+- Frederick Kurniawan Putra <br>
+Data Scientist<br>
+    [GitHub](https://github.com/UdonUltra) | [LinkedIn](https://www.linkedin.com/in/frederick-kurniawan-putra-389b6a146/)
 
 --- 
 ## 💾 **Dataset**
