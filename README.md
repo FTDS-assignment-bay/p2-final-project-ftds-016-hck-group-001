@@ -45,19 +45,18 @@ Data Scientist<br>
 
 --- 
 ## 💾 **Dataset**
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-[here]().
+Our data contains information about customer complaints on various financial products.
+[source](https://data.world/data-society/consumer-complaint-data)
 
 ---
-## 📝 **Problem Statement**
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## 📝 **Problem Background**
+After reviewing the customer satisfaction survey result, we've found that 65% of our customers are satisfied with our products. As an initiative to increase our customer's satisfaction, we'll utilize our data department to give us insights on complaints data and deep learning to help us categorized data, which will help us take actions that are suited to each category.
 
 ---
 ## 🎯 **Objective**
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our goal is to create a customer complaints classifier with 0.85 f1-score, we'll achieve this goal by following the proper machine learning procedure, achieving this goal would increase our customer satisfaction, and ultimately our profit, we aim to finish this model by the end of next week.
 
 ---
 ## 🚀 **Deployment**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua:
-[deploy]()
+We deployed our analysis result and predictor model on the web.
+[url](https://huggingface.co/spaces/dnirfana/Complaint_Ease?logs=build)
