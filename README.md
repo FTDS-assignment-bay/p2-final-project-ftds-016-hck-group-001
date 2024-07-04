@@ -4,10 +4,10 @@
 <a name="readme-top"></a>
 
 <div align='center'>
-    <h1><b>Lorem Ipsum</b></h1>
-    <img src='logo.png'/>
+    <h1><b>Complaint Ease</b></h1>
+    <img src='logo.png' width="400"/>
     <br><br>
-    <p>Lorem A program to categorize and predict customer complaints to help us decide the right action for each category</p>
+    <p>A program to categorize and predict customer complaints to help us decide the right action for each category</p>
     <br>
 
 <!-- ![Python](https://badgen.net/badge/Python/3.9.18/blue?)
