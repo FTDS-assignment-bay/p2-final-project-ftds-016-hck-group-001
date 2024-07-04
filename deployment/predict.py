@@ -10,6 +10,7 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
 nltk.download('stopwords')
+nltk.dowload('wordnet')
 nltk.download('punkt')
 
 # load model
@@ -146,7 +147,7 @@ def app():
                 # Display the prediction result
                 st.success(f'Prediction: {responses}')
         else:
-            st.warning("Please enter a review.")
+            st.warning("Please fill the complaint.")
 
 if __name__ == '__main__':
     app()
