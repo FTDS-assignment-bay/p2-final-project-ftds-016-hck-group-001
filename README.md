@@ -54,7 +54,7 @@ After reviewing the customer satisfaction survey result, we've found that 65% of
 
 ---
 ## 🎯 **Objective**
-Our goal is to create a customer complaints classifier with 0.85 f1-score, we'll achieve this goal by following the proper machine learning procedure, achieving this goal would increase our customer satisfaction, and ultimately our profit, we aim to finish this model by the end of next week.
+Our goal is to create a customer complaints classifier with 0.85 f1-score on harsh complaints category, we'll achieve this goal by following the proper machine learning procedure, achieving this goal would increase our customer satisfaction, and ultimately our profit, we aim to finish this model by the end of next week.
 
 ---
 ## 🚀 **Deployment**
