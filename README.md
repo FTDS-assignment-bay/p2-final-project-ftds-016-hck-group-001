@@ -5,9 +5,9 @@
 
 <div align='center'>
     <h1><b>Lorem Ipsum</b></h1>
-    <img src='add_logo_here.png'/>
+    <img src='logo.png'/>
     <br><br>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua..</p>
+    <p>Lorem A program to categorize and predict customer complaints to help us decide the right action for each category</p>
     <br>
 
 <!-- ![Python](https://badgen.net/badge/Python/3.9.18/blue?)
