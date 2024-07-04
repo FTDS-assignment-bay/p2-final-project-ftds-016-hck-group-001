@@ -5,7 +5,7 @@
 
 <div align='center'>
     <h1><b>Complaint Ease</b></h1>
-    <img src='logo.png' width="400"/>
+    <img src='logo.png' width="256"/>
     <br><br>
     <p>A program to categorize and predict customer complaints to help us decide the right action for each category</p>
     <br>
