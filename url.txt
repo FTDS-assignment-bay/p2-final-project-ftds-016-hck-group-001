@@ -1,5 +1,5 @@
 Dataset: https://data.world/data-society/consumer-complaint-data
 
-Tableau: bit.ly/Complaint-Ease-Dashboard
+Tableau: https://bit.ly/Complaint-Ease-Dashboard
 
-Hugging Face: 
+Hugging Face: https://huggingface.co/spaces/dnirfana/Complaint_Ease?logs=build
