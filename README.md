@@ -7,10 +7,10 @@
     <h1><b>Complaint Ease</b></h1>
     <img src='logo.png' width="256"/>
     <br><br>
-    <p>A program to categorize and predict customer complaints to help us decide the right action for each category</p>
+    <p>A program to categorize and predict customer complaints to help us decide the right action for each category.</p>
     <br>
 
-<!-- ![Python](https://badgen.net/badge/Python/3.9.18/blue?)
+![Python](https://badgen.net/badge/Python/3.9.18/blue?)
 ![Streamlit](https://badgen.net/badge/Streamlit/1.10.0/orange?)
 ![Pandas](https://badgen.net/badge/Pandas/1.4.3/blue?)
 ![Seaborn](https://badgen.net/badge/Seaborn/0.11.2/green?)
@@ -20,7 +20,7 @@
 ![TensorFlow](https://badgen.net/badge/TensorFlow/2.15.0/orange?)
 ![WordCloud](https://badgen.net/badge/WordCloud/1.8.1/purple?)
 ![NLTK](https://badgen.net/badge/NLTK/3.7/red?)
-![Docker](https://badgen.net/badge/Docker/20.10/cyan?) -->
+![Tableau](https://badgen.net/badge/Tableau/2024.1/cyan?)
 
 </div>
 
@@ -46,7 +46,7 @@ Data Scientist<br>
 --- 
 ## 💾 **Dataset**
 Our data contains information about customer complaints on various financial products.
-[source](https://data.world/data-society/consumer-complaint-data)
+[Source.](https://data.world/data-society/consumer-complaint-data)
 
 ---
 ## 📝 **Problem Background**
@@ -57,6 +57,6 @@ After reviewing the customer satisfaction survey result, we've found that 65% of
 Our goal is to create a customer complaints classifier with 0.85 f1-score on harsh complaints category, we'll achieve this goal by following the proper machine learning procedure, achieving this goal would increase our customer satisfaction, and ultimately our profit, we aim to finish this model by the end of next week.
 
 ---
-## 🚀 **Deployment**
+## 🚀 **Deployment & Dashboard**
 We deployed our analysis result and predictor model on the web.
-[url](https://huggingface.co/spaces/dnirfana/Complaint_Ease?logs=build)
+[Deploymnets](https://huggingface.co/spaces/dnirfana/Complaint_Ease?logs=build) | [Dashboard](https://bit.ly/Complaint-Ease-Dashboard)
