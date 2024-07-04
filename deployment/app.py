@@ -16,7 +16,9 @@ def show_home():
     with cent_co:
         st.image('ComplaintEase.png')  
     st.write('')
-    st.write('''This application is specifically designed to facilitate both exploratory data analysis and predictive modeling regarding airline reviews. It provides users with advanced analytical tools that help in understanding trends and patterns within the data. To begin, please use the navigation menu on the left side of the screen to select the particular module that you intend to explore. Whether you're looking to uncover insights or forecast future trends, this tool equips you with the necessary resources to effectively analyze the feedback from airline passengers.''')
+    st.write('''After reviewing the customer satisfaction survey result, we've found that 65% of our customers are satisfied with our products. 
+             As an initiative to increase our customer's satisfaction, we'll utilize our data department to give us insights on complaints data and 
+             deep learning to help us categorized data, which will help us take actions that are suited to each category.''')
     st.markdown('---')
     
 # Add side bar for navigation
@@ -32,15 +34,12 @@ selection = st.sidebar.selectbox("Go to", list(PAGES.keys()))
 st.sidebar.markdown('# About')
 
 # Introduction
-st.sidebar.write('''bla bla bla ''')
-
-# Features
-st.sidebar.write('''### Key Features:
-bla blba bla ''')
+st.sidebar.write('''This application is specifically designed to categorize and predict customer complaints to help us decide the right action for each category.''')
 
 # Target Audience
 st.sidebar.write('''### Who can benefit?
-bla bla bla .''')
+- Head of Customer Service.
+- Customer Service Department.''')
 
 if selection == 'Home':
     show_home()
